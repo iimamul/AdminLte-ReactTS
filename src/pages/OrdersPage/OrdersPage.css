@@ -1,0 +1,21 @@
+.orders-page {
+    padding: 20px;
+    margin: 1%;
+  }
+  
+  .orders-page h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .orders-page-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .order-list-container,
+  .order-form-container {
+    flex: 1;
+  }
+  
